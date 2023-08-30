@@ -40,5 +40,5 @@
  
  <h2>Divertite con mis Contribuciones animadas 📝</h2>
  
-  ![Snake animation](https://github.com/lokywolf2295/lokywolf2295/blob/output/github-contribution-grid-snake.gif)
+  ![Snake animation](https://github.com/lokywolf2295/lokywolf2295/blob/output/github-contribution-grid-snake-dark.svg)
  
