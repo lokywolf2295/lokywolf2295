@@ -41,4 +41,9 @@
  <h2>Divertite con mis Contribuciones animadas 📝</h2>
  
   ![Snake animation](https://github.com/lokywolf2295/lokywolf2295/blob/output/github-contribution-grid-snake-dark.svg)
+
+<!--profile visit count-->
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{lokywolf2295}/count.svg" alt="lokywolf2295 :: Visitor's Count" /></p>
  
