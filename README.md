@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1>Hola a todos soy Matias Esequiel Carballo 👋🏻</h1><br>
-  <h3>Programador Junior 💻 nacido en 🇦🇷 Estudiante de la Tecnicatura Universitaria en Programación de la UTN FRSR, actualmente me encuentro perfeccionando como Desarrollador Full Stack Java ☕ con Spring Boot 🍃</h3>
+  <h3>Programador 💻 nacido en 🇦🇷 Estudiante de la Tecnicatura Universitaria en Programación de la UTN FRSR, actualmente me encuentro perfeccionando como Desarrollador Full Stack Java ☕ con Spring Boot 🍃</h3>
 
   <a href="https://github.com/lokywolf2295">
   <h2 align="left">Mis Stats 📊:</h2>
