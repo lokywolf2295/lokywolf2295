@@ -2,6 +2,7 @@
 <div align="center">
   <h1>Hola a todos soy Matias Esequiel Carballo 👋🏻</h1><br>
   <h3>Programador Recibido,💻 nacido en 🇦🇷, actualmente me encuentro perfeccionando como Desarrollador Full Stack Java ☕ con Spring Boot 🍃</h3>
+  <h4>Además soy Criptomaníaco, especialista en rastreo en Blockchain, certificado por 2 grandes Empresas 🕵🏻🪙</h4>
 
   <a href="https://github.com/lokywolf2295">
   <h2 align="left">Mis Stats 📊:</h2>
